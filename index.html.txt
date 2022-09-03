@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 i am aravindh 
 
 
@@ -5,4 +6,6 @@ i am aravindh
 
 
 
+=======
+>>>>>>> 44ca1cdf46a93751946137e6f187e5942dcc93ca
 
